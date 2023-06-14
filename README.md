@@ -1,1 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/a-4lUz3-)
+Desixn Co.
+
+#Desixn is an online freelance marketplace that connects businesses and individuals with talented freelancers from around the world. With a diverse range of services offered, Desixn provides a platform for individuals to showcase their skills and expertise in areas such as graphic design, web development, content creation, branding, and more. Clients can explore the extensive pool of freelancers and engage them for various projects or ongoing collaborations. Desixn's intuitive interface, secure payment system, and review-based rating mechanism make it a trusted and efficient platform for both freelancers and clients, fostering a global community of creative and skilled professionals.
