@@ -19,7 +19,7 @@ function Navbar() {
     };
   }, []);
 
-  // const currentUser = null
+  //const currentUser = null
 
   const currentUser = {
     id: 1,
